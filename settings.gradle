@@ -1,0 +1,3 @@
+rootProject.name = "super_adapter"
+include ':app'
+include ':super_adapter'
